@@ -1,0 +1,26 @@
+[
+  {
+    "full_name": "Vijay",
+    "phone_number": "9876543210",
+    "email": "vijay@gmail.com",
+    "password": "user@123",
+    "delivery_platform": "Zomato",
+    "city": "Coimbatore",
+    "delivery_zone": "641202",
+    "weekly_earnings": 20000.0,
+    "upi_id": "vijay@oksbi",
+    "role": "worker"
+  },
+  {
+    "full_name": "Vijay",
+    "phone_number": "9876543210",
+    "email": "vijays@gmail.com",
+    "password": "Vijay@123",
+    "delivery_platform": "Zomato",
+    "city": "Coimbatore",
+    "delivery_zone": "641202",
+    "weekly_earnings": 20000.0,
+    "upi_id": "vijay@oksbi",
+    "role": "worker"
+  }
+]
